@@ -1,1 +1,3 @@
-this is the change from 1st user.....
+This is a mergerd result.
+this the change from 2nd user
+This is change from 1st user
